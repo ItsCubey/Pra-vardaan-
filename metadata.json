@@ -1,0 +1,5 @@
+{
+  "name": "Vardaan AI Chat",
+  "description": "An aesthetically pleasing, responsive AI chat application using React, Tailwind CSS, and Firebase for authentication, allowing users to interact with a powerful AI model in a sleek and animated interface.",
+  "requestFramePermissions": []
+}
